@@ -1,0 +1,102 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif; Schriftart 
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background: transparent;
+}
+
+.notification {
+  margin-bottom: 1vh;
+  position: absolute;
+  top: 5vh;
+  left: 2vh;
+  background-color: rgba(53, 53, 53, 0.603);
+  max-width: 22vh;
+  min-width: 22vh;
+  min-height: 8vh;
+  max-height: 8vh;
+  word-wrap: break-word;
+  padding: 0.5vh;
+  border-radius: 10px;
+  border-bottom-right-radius: 15px;
+  border-top-right-radius: 15px; 
+  border-left-style: groove;
+
+}
+
+.announce {
+  margin-bottom: 1vh;
+  position: relative;
+  top: 5vh;
+  left: 2vh;
+  background-color: rgb(53, 53, 53);
+  max-width: 50vh;
+  min-width: 10vh;
+  min-height: 8vh;
+  max-height: 80vh;
+  left: 700px;
+  top: 8px;
+  border-radius: 10px;
+  border-bottom-right-radius: 15px;
+  border-top-right-radius: 15px; 
+  border-style: groove;
+  border-color: #ff0000;
+  box-shadow: 0px 0px 9px 5px #FF0000;
+
+}
+
+.notification-title {
+  text-transform: uppercase;
+  padding-left: 10px;
+  font-size: 16px;
+  font-weight: 900;
+
+  
+}
+
+.announce-title {
+  text-transform: uppercase;
+  padding-left: 10px;
+  font-size: 16px;
+  font-weight: 900;
+  text-align: center; 
+}
+
+.notification-message {
+  padding-left: 11px;
+  padding-top: 10px;
+  font-size: 1.4vh;
+}
+
+.announce-message {
+  padding-left: 11px;
+  padding-top: 10px;
+  font-size: 1.4vh;
+  text-align: center;
+}
+
+/* Notification Textfarbe */
+p {
+  color: #ffffff;
+}
+
+/* Notifivation Titelfarbe */
+p1 {
+  color: #ff0000;
+}
+
+/* Notification Textfarbe */
+p2 {
+  color: #ffffff;
+}
+
+/* Notifivation Titelfarbe */
+p3 {
+  color: #ff0000;
+}
