@@ -12,7 +12,7 @@ Always use the #Code or HEX and insert it as a color.
 
 You have to enter the trigger event in your client side as follows or exchange it for the ESX_Notify event
 
-Notifications Event: "TriggerEvent("notifications", "COLORHEX", "TITEL", 'MASSAGE')"
+Notifications Event: TriggerEvent("notifications", "COLORHEX", "TITEL", 'MASSAGE')
 
 
 Have fun whit this Notification and like to report issus to me!
